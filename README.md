@@ -34,6 +34,11 @@ Contributions are very welcome. Please see [CONTRIBUTING.md](CONTRIBUTING.md) fo
 details. Thanks to [everyone who has contributed](https://github.com/portphp/boilerplate/graphs/contributors)
 already.
 
+## Security
+
+If you discover any security-related issues, please contact us at
+security@portphp.org.sec
+
 ## License
 
 This package is licensed under the [MIT license](LICENSE).
