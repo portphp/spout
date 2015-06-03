@@ -22,7 +22,7 @@ of the Composer documentation.
 
 ## Documentation
 
-Documentation is available at https://portphp.readthedocs.org.
+Documentation is available at https://docs.portphp.org.
 
 ## Issues and feature requests
 
