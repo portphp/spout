@@ -41,7 +41,9 @@ Write your code and add tests. Then run the tests:
 $ vendor/bin/phpunit
 ```
 
-Commit your changes and push them to GitHub:
+Commit your changes and push them to GitHub. Please write your commit messages
+in the imperative and follow the [guidelines](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html)
+for clear and concise messages:
 
 ```bash
 $ git commit -m "Fix nasty bug"
