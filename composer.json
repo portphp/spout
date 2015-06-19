@@ -20,7 +20,7 @@
     "support": {
         "issues": "https://github.com/portphp/portphp/issues",
         "source": "https://github.com/portphp/boilerplate",
-        "docs": "https://portphp.readthedocs.org"
+        "docs": "http://docs.portphp.org"
     },
     "require": {
         "php": ">=5.4.0"
