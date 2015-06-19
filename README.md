@@ -37,7 +37,7 @@ already.
 ## Security
 
 If you discover any security-related issues, please contact us at
-security@portphp.org.sec
+[security@portphp.org](mailto:security@portphp.org).
 
 ## License
 
