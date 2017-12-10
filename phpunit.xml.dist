@@ -13,7 +13,7 @@
          verbose="true"
         >
     <testsuites>
-        <testsuite name="portphp/boilerplate">
+        <testsuite name="portphp/spout">
             <directory suffix=".php">./tests/</directory>
         </testsuite>
     </testsuites>

@@ -1,5 +1,5 @@
 suites:
   library_suite:
-    namespace: Port\Boilerplate
-    psr4_prefix: Port\Boilerplate
+    namespace: Port\Spout
+    psr4_prefix: Port\Spout
 formatter.name: pretty

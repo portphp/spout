@@ -1,6 +1,6 @@
 {
-    "name": "portphp/boilerplate",
-    "description": "Boilerplate",
+    "name": "portphp/spout",
+    "description": "Spout adapter for PortPHP",
     "license": "MIT",
     "homepage": "https://github.com/portphp",
     "authors": [
@@ -14,12 +14,12 @@
         },
         {
             "name": "Community contributors",
-            "homepage": "https://github.com/portphp/boilerplate/graphs/contributors"
+            "homepage": "https://github.com/portphp/spout/graphs/contributors"
         }
     ],
     "support": {
         "issues": "https://github.com/portphp/portphp/issues",
-        "source": "https://github.com/portphp/boilerplate",
+        "source": "https://github.com/portphp/spout",
         "docs": "http://docs.portphp.org"
     },
     "require": {
@@ -27,7 +27,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Port\\Boilerplate\\": "src/"
+            "Port\\Spout\\": "src/"
         }
     },
     "require-dev": {
@@ -36,7 +36,7 @@
     },
     "autoload-dev": {
         "psr-4": {
-            "Port\\Boilerplate\\Tests\\": "tests/"
+            "Port\\Spout\\Tests\\": "tests/"
         }
     },
     "extra": {
